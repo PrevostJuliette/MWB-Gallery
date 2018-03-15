@@ -1,0 +1,242 @@
+
+
+
+
+header{
+  font-family: 'Libre Baskerville', serif;
+  background-image: url('images/toukow.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+ background-position: top center;
+ font-family: 'Libre Baskerville', serif;
+
+ background-size: cover;
+ min-height: 80vh;
+ background-repeat: no-repeat;
+background-position: top center;
+background-attachment: fixed;
+padding: 64px;
+
+}
+
+
+h1 {
+font-family: 'Libre Baskerville', serif;
+font-size: 2em;
+color: Black;
+margin: 50px;
+margin-top: 50px;
+
+}
+
+
+h2 {
+font-size: 1em;
+margin-bottom: 50px;
+font-weight: bold;
+color: black;
+font-style: bold;
+margin-top: 20Px;
+font-family: 'Libre Baskerville', serif;
+}
+
+p {
+font-family: 'Roboto Condensed', sans-serif;
+  margin: 50px;
+  text-align: center;
+}
+
+section{
+font-family: 'Roboto Condensed', sans-serif;
+}
+
+.header-content-block{
+padding: 22px;
+border-style: solid 2px;
+color: White;
+background: rgba(170,170,170,0.6);
+padding: 22px;
+text-align: center;
+
+}
+
+.header-content-block h1 {
+  font-size: 4em;
+}
+
+
+
+
+
+.section-content-blok {
+
+}
+
+#bio {
+  text-align: center;
+
+  font-family: 'Libre Baskerville', serif;
+ font-size: 2em;
+
+}
+
+.bio-content-block {
+  max-width: 960px;
+  margin: 20px;
+  columns: 2;
+  font-family: 'Roboto Condensed', sans-serif;
+  text-align: center;
+  margin: 50px;
+font-size: 0.5em;
+}
+
+
+
+#comp {
+  color: Black;
+  font-family: 'Libre Baskerville', serif;
+  font-size: 1.5em;
+display: block;
+text-align: center;
+
+
+
+
+}
+
+.comp-section-content {
+background-color: White;
+justify-content: space-around;
+color : black;
+font-family: 'Roboto Condensed', sans-serif;
+}
+
+#Portfolio {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: black;
+  background-color: white;
+  font-size: 2em;
+  margin: 20px;
+  text-align: center;
+
+
+}
+
+
+.Portfolio-content {
+margin-bottom: 50px;
+}
+
+
+
+
+footer {
+font-family: 'Roboto Condensed', sans-serif;
+background-color: white;
+color: black
+
+}
+
+
+.Adresse{
+text-align: center;
+color: green;
+
+}
+
+.Social-links {
+  text-align: center;
+  color: green;
+}
+
+
+a{
+  font-size: 0,5em;
+}
+
+
+.char1{
+  color: grey;
+  font-family: 'Rammetto One', cursive;
+}
+
+.char2{
+  color: pink;
+  font-family: 'Oswald', sans-serif;
+}
+.char3{
+  color: yellow;
+  font-family: 'BioRhyme Expanded', serif;
+}
+.char4{
+  color: red;
+  font-family: 'Raleway', sans-serif;
+}
+.char5{
+  color: Green;
+  font-family: 'Lora', serif;
+}
+.char6{
+  color: blue;
+  font-family: 'Ubuntu', sans-serif;
+}
+.char7{
+  color: red;
+  font-family: 'Dhurjati', sans-serif;
+}
+
+.char8{
+  color: grey;
+  font-family: 'Raleway', sans-serif;
+}
+
+.char9{
+  color: yellow;
+  font-family: 'Rammetto One', cursive;
+}
+
+
+.char10{
+  color: blue;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.char11{
+  color: pink;
+  font-family: 'Oswald', sans-serif;
+}
+
+.char12{
+  color: grey;
+  font-family: 'Rammetto One', cursive;
+}
+
+.char13{
+  color: Green;
+  font-family: 'Lora', serif;
+}
+
+.char14{
+  color: blue;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.char15{
+  color: red;
+  font-family: 'Raleway', sans-serif;
+}
+
+
+.char16{
+  color: yellow;
+  font-family: 'Rammetto One', cursive;
+}
+
+
+
+.Adresse {
+  font-family: 'Arvo', serif;
+  font-size: 1em;
+  text-align: center;
+  l
+}
